@@ -10,9 +10,9 @@ const { Title, Paragraph } = Typography;
 
 const Homepage = () => {
   const reviews = [
-    { user: "user 1" },
-    { user: "user 2" },
-    { user: "user 3" },
+    { user: "John Doe" },
+    { user: "Tony Smith" },
+    { user: "Peter Mark" },
   ];
   return (
     <Layout>
